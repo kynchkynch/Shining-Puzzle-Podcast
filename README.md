@@ -490,8 +490,10 @@
     <center>
         <img src="interaction.jpg.jpg"width="40%" height="40%">
     </center>
-    <br>
-<h3>  Figure 2. Additional Podcast Analytics</h3>
+    <br>[resume-example.pdf](https://github.com/kynchkynch/Shining-Puzzle-Podcast/files/15157502/resume-example.pdf)
+
+<h3>  Figure 2. Additional Podcast Analytics</h3>[resume-example.pdf](https://github.com/kynchkynch/Shining-Puzzle-Podcast/files/15157499/resume-example.pdf)
+
 <br>
 <br>
 <br>
