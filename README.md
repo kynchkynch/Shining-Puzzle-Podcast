@@ -175,7 +175,7 @@
                     <img
                      src="shining puzzle podcast things/Devon.png" 
                      alt="Project 2"
-                    class="project-img"
+                                 class="project-img"
                     />
                 </div>
                 <h2 class="experience-sub-title project-title">Devon <br>Mitchell</h2>
